@@ -1,0 +1,85 @@
+body {
+  background-color: #FFFFFF;
+  color: #666666;
+}
+
+h1 {
+  background-color: #00B386;
+  color: #FFFFFF;
+}
+
+
+nav {
+  background-color: #70DBDB;
+}
+
+h2 {
+  color: #00664D;
+}
+
+dt {
+  color: #00664D;
+}
+
+.barn {
+  color: #70DBDB;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+body {
+font-family:"italic"
+}
+
+h1 {
+  background-image: url("pasture.png" );
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+h1 {
+  line-height: 200%;
+  text-indent: 1em;
+}
+
+nav {
+  font-weight: bold;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+
+h1, h2, h3 {
+    font-family:  serif;
+}
+
+ul {
+    list-style-image: url('marker.gif');
+}
+
+
+footer {
+text-align: center;
+font-size: 75%
+font-family: Georgia;
+font-style: italic;
+}
+
+
+.barn {
+font-weight: bold
+}
+
+#contact {
+  font-size: 90%;
+}
+
+
+
+
+
+
